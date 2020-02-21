@@ -1,0 +1,14 @@
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\bin\Debug\BuenaventuraEMDPersonalForm.exe.config
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\bin\Debug\BuenaventuraEMDPersonalForm.exe
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\bin\Debug\BuenaventuraEMDPersonalForm.pdb
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\bin\Debug\BuenaventuraEMDPersonalForm.xml
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.vbprojAssemblyReference.cache
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.Form1.resources
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.Form2.resources
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.Resources.resources
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.vbproj.GenerateResource.cache
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.exe
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.xml
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.pdb
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.Form3.resources
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDPersonalForm\BuenaventuraEMDPersonalForm\obj\Debug\BuenaventuraEMDPersonalForm.Form4.resources
